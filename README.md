@@ -1,7 +1,4 @@
-### Hi there Iam Evans Rutto👋
-
-<!--
-**robbyevans/robbyevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there Iam Evans
 
 Here are some ideas to get you started:
 
