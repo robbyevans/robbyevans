@@ -4,8 +4,7 @@ About me:
 
 - 🔭 I’m currently a student at Moringa school
 - 🌱 I’m currently learning :React js
-- 👯 I’m looking to collaborate on: backend API
-- 🤔 I’m looking for help with: Backend API
+- 👯 I’m looking to collaborate on: front end projects
 - 💬 Ask me about: JavaScript,Html&Css,React js
 - 📫 How to reach me:[Twitter @robbyevans22](https://twitter.com/robbyevans22), [linkedin @ Evans Rutto](https://www.linkedin.com/in/evans-rutto-5a40b722a/)
 - 😄 Pronouns: His/him/Engineer
