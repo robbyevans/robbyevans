@@ -1,8 +1,6 @@
 ### Hi there Iam Evans
 
 About me:
-
-- 🔭 I’m currently a student at Moringa school
 - 🌱 I’m currently learning :Rails
 - 👯 I’m looking to collaborate on: front end projects
 - 💬 Ask me about: React js,Ruby,Rails,Html&Css
