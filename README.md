@@ -27,6 +27,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=robbyevans&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0a0c10">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robbyevans&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0a0c10" alt="robbyevans" /></p>
+## 🔥 My contribution streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robbyevans&theme=dark" alt="robbyevans" /></p>
+
+
 
 
