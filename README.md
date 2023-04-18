@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/robbyevans22" target="blank"><img src="https://img.shields.io/twitter/follow/robbyevans22?logo=twitter&style=for-the-badge" alt="robbyevans22" /></a> </p>
 
-- 🌱 React|Rails|Redux|
+- 🌱 React|Redux|Ruby|Rails|
 - 👯 Building and shipping
 - 💬 Ask me about: React js,Ruby,Rails
 - 📫 How to reach me:[Twitter @robbyevans22](https://twitter.com/robbyevans22)
