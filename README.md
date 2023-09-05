@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Evans</h1>
 <p align="center">
-Hey 👋, I'm Evans Rutto, a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems. The technologies i enjoy working with include Javascript, React, Ruby and Rails. I'm also a linux enthusiast. I'm open for any opportunities.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbyevans&label=Profile%20views&color=0e75b6&style=flat" alt="robbyevans" /> </p>
 
