@@ -1,8 +1,4 @@
-# 👋 Hello! I'm Evans Rutto
-
-Welcome to my GitHub profile! I'm passionate about coding, building solutions, and continuously learning new technologies.
-
-**🌐 Find out more:** [My Website](https://kiprop.pages.dev/)
+**🌐 Find out more:** [kiprop.dev](https://kiprop.pages.dev/)
 
 ---
 
