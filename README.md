@@ -1,17 +1,3 @@
-
-<h1 align="center">Hi 👋, I'm Evans</h1>
-<p align="center">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robbyevans&label=Profile%20views&color=0e75b6&style=flat" alt="robbyevans" /> </p>
-
-<p align="left"> <a href="https://twitter.com/robbyevans22" target="blank"><img src="https://img.shields.io/twitter/follow/robbyevans22?logo=twitter&style=for-the-badge" alt="robbyevans22" /></a> </p>
-
-- 🌱 React|Redux|Ruby|Rails|
-- 👯 Building and shipping
-- 💬 Ask me about: React js,Ruby,Rails
-- 📫 How to reach me:[Twitter @robbyevans22](https://twitter.com/robbyevans22)
-- 😄 Pronouns: Engineer
-- ⚡ Fun fact: Hit me up.
 --> Find out more: https://kiprop.pages.dev/
 
 <h3 align="left">Connect with me:</h3>
